@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mullae-karaoke-bar-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://mullae-karaoke-bar-note.best-hapjeong-pub.xyz/sitemap-pages.xml
